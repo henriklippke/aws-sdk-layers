@@ -1,5 +1,5 @@
-# aws-sdk-layers NodeJS
-by default the lambda environment does not have a current aws-sdk installed but sadly an outdated version, so here is a snippet to create and include a layer
+# aws-sdk-layers 
+By default the NodeJS lambda environment does not have a current aws-sdk installed but sadly an outdated version, so here is a snippet to create and include a layer
 
 ## Cloudformation
 
